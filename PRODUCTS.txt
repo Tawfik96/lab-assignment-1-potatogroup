@@ -1,0 +1,9 @@
+
+pepsi	drink	12	3
+10	10	10	10
+10	10	10	10
+10	10	10	10
+coca	drink	10	5
+5	5	5	5
+apple	fruits	20	5
+			
